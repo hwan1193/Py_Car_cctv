@@ -4,7 +4,7 @@ import time
 import streamlit as st
 
 def main():
-    st.title("클릭 한 번으로 클라우드 취약점 확인: 무료 보안 자동화 도구")
+    st.title("비식별 자동화 기술")
     st.write("이 데모는 차량 번호판 모자이크 처리 및 속도 계산을 예시로 보여줍니다.")
 
     # 번호판 검출을 위한 Haar Cascade 로드
